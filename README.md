@@ -1,8 +1,7 @@
 ## Hello my friend 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20becover%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20👋%20I'm%2MALLANGCODHI%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
 
 **Wellcome to my hub**
 `Age:30`
@@ -39,3 +38,5 @@
 * **Hobbies** 노래 부르기
 * **Sports:** 프로 야구 Kia 타이거즈 17년차 팬
 * **Pets:** 햄스너, 병아리, 강아지
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
