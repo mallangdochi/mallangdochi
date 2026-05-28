@@ -32,3 +32,15 @@ Here are some ideas to get you started:
 - [ ] Adobe After Effects & Premiere Pro를 활용한 모션 그래픽 비디오 제작
 - [ ] 3D 애니메이션과 UI 기획을 결합한 웹 컴포넌트 구현
 - [ ] 웹 기술로 실행 가능한 나만의 오리지널 카드 게임 개발하기
+
+## 💡 Interests & Toolbox
+
+### 💻 Development & Design
+* **Frontend:** HTML5 / CSS3 / JavaScript (ES6+)
+* **Design/Motion:** Adobe After Effects / Premiere Pro / Lottie Animation
+* **AI Tools:** Stable Diffusion (WebUI) 캐릭터 생성 및 Web UI 프롬프트 엔지니어링
+
+### 🐹 Gaming & Hobbies
+* **Gaming:** Minecraft (Pixelmon Mod 리소스 관리 및 수집)
+* **Sports:** 프로 야구 라인업 관리 및 시뮬레이션 플레이
+* **Pets:** 소형 동물(햄스터, 병아리) 사육 및 환경 조성
