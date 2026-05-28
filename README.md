@@ -3,9 +3,13 @@
 <!--
 **mallangdochi/mallangdochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20becover%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+### 🛠 Tech Stacks
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
