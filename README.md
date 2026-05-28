@@ -15,12 +15,12 @@
 * **JavaScript**를 활용한 동적 기능 추가
 * **피그마**를 이용한 사이트 디자인
 * **Git Bash** 터미널을 통한 버전 관리 및 깃허브 백업
-* 
+* 나만의 **웹 사이트** 만들기
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=10&section=header" />
 
-## 🚀 My Roadmap & Goals
+## 🚀 My Roadmap
 
-현재 웹 개발(HTML/CSS/JS)과 UI/UX 디자인, 영상 제작을 공부하며 나만의 멋진 포트폴리오를 만들어가고 있습니다.
+현재 웹 개발(HTML/CSS/JS)과 UI/UX 디자인, 영상 제작을 공부하며 나만의 멋진 포트폴리오를 만들려고 노력 중 ><
 
 ## 💡 Interests & Toolbox
 
