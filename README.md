@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=200&section=header&text=MALLANGDOCHI%20%7C%20GITHUB&fontSize=70&fontColor=ffffff)
 ## Hello my friend 👋
 
 **Wellcome to my hub**
