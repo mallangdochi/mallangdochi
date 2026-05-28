@@ -1,4 +1,3 @@
-<img width="876" height="996" alt="4" src="https://github.com/user-attachments/assets/74022385-e1bc-4acd-82ce-4b6f7e84b7e4" />
 ## Hi there 👋
 **Do you want to play a game?**
 
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
 * **HTML5/CSS3**를 이용한 깔끔한 웹 레이아웃 구현
 * **JavaScript**를 활용한 동적 기능 추가
 * Git Bash 터미널을 통한 버전 관리 및 깃허브 백업
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=10&section=header" />
 ## 📁 폴더 구조
 ```text
 ├── index.html
@@ -36,4 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=My%20First%20GitHub&fontSize=70)
