@@ -1,7 +1,5 @@
-## Hello my friend 👋
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
-
+## Hello my friend 👋
 
 **Wellcome to my hub**
 `Age:30`
