@@ -1,3 +1,4 @@
+<img width="876" height="996" alt="4" src="https://github.com/user-attachments/assets/74022385-e1bc-4acd-82ce-4b6f7e84b7e4" />
 ## Hi there 👋
 **Do you want to play a game?**
 
