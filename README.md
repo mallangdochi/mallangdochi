@@ -1,6 +1,6 @@
 ## Hello my friend 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20👋%20I'm%2MALLANGCODHI%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 
 **Wellcome to my hub**
