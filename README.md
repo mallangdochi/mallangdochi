@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 현재 웹 개발(HTML/CSS/JS)과 UI/UX 디자인, 영상 제작을 공부하며 나만의 멋진 포트폴리오를 만들어가고 있습니다.
 
-- [v] VS Code와 GitHub 연동 마스터하기
+- [*v*] VS Code와 GitHub 연동 마스터하기
 - [ ] HTML, CSS, JavaScript를 활용한 인터렉티브 웹사이트 만들기
 - [ ] Adobe After Effects & Premiere Pro를 활용한 모션 그래픽 비디오 제작
 - [ ] 3D 애니메이션과 UI 기획을 결합한 웹 컴포넌트 구현
